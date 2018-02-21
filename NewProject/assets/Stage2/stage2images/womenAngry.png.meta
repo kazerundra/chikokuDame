@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7e1a7f1c-780e-4a24-833c-2c901bae46c9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "womenAngry": {
+      "ver": "1.0.3",
+      "uuid": "c743a3a8-defd-4fb3-97f2-39fe1a68d21a",
+      "rawTextureUuid": "7e1a7f1c-780e-4a24-833c-2c901bae46c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 251,
+      "rawWidth": 128,
+      "rawHeight": 251,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnysdk": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.NewProject",
+  "startScene": "4b458c5c-7444-4d8d-9155-5d45b04f20ae",
+  "title": "ChikokudameSumitomo",
+  "webOrientation": "portrait"
+}

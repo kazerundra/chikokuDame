@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fef0e800-fc56-4f22-b335-8e995bee93ec",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "City_Background_Ny_4267x2133": {
+      "ver": "1.0.3",
+      "uuid": "acbc9d3f-4dad-4b2d-a245-f57f1582d6d3",
+      "rawTextureUuid": "fef0e800-fc56-4f22-b335-8e995bee93ec",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 4267,
+      "height": 2133,
+      "rawWidth": 4267,
+      "rawHeight": 2133,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

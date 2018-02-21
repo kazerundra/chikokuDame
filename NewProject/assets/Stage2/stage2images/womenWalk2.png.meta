@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "12e9d0da-8065-4dee-977a-38fbcd83dafc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "womenWalk2": {
+      "ver": "1.0.3",
+      "uuid": "7c2edd7f-28d6-471c-9910-c5d29e655895",
+      "rawTextureUuid": "12e9d0da-8065-4dee-977a-38fbcd83dafc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 211,
+      "rawWidth": 88,
+      "rawHeight": 211,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

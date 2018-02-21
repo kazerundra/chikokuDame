@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "womenwalk",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3fba5e9d-57a8-4dd2-83b5-badd68db4e01"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "7c2edd7f-28d6-471c-9910-c5d29e655895"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "3fba5e9d-57a8-4dd2-83b5-badd68db4e01"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
